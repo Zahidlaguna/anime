@@ -1,4 +1,2 @@
 # anime
-Anime Recommender system that recommends anime based on the genre and rating.
-Using TensorFlow and Sklearn to perform and recommend an anime based on your 
-favorite genre and the score rating given to the anime. 
+Our anime recommendation system is designed to provide you with personalized anime suggestions based on your preferred genre and rating score. Powered by cutting-edge technologies such as TensorFlow and Sklearn, our system ensures you receive the best recommendations that cater to your unique taste. All you have to do is input your favorite genre and rating, and our advanced algorithm will take care of the rest, presenting you with a curated list of anime titles that will pique your interest.
