@@ -67,7 +67,7 @@ def recommend(anime_title, model, norms, indices, df, top_n=10):
   return df.iloc[best_scores]
 
 # %%
-anime_title = input("Enter an anime title: ").lower()
+anime_title = input("Enter an anime title: ")
 recommendations = recommend(anime_title, model, X_norm, anime_df.index, anime_df)
 if recommendations.empty:
     print("No recommendations found for {}".format(anime_title))
